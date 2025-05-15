@@ -1,0 +1,500 @@
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 개정판를 알려 줄 그림책 책이 필요해요.", "output": "theme=개정판, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 데일리룩 놀이책 책을 골라 주세요.", "output": "theme=데일리룩, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 창의력 주제의 학습서 책을 찾고 있어요. 추천해 주세요.", "output": "theme=창의력, type=학습서, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 1992년에 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=1992년에, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 단짝 그림책 추천 부탁드립니다.", "output": "theme=단짝, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 코라 그림책 있을까요?", "output": "theme=코라, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 발랄한를 알려 줄 그림책 책이 필요해요.", "output": "theme=발랄한, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 창비그림책상를 알려 줄 그림책 책이 필요해요.", "output": "theme=창비그림책상, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 왔어요 그림책 추천 부탁드립니다.", "output": "theme=왔어요, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 개정판를 알려 줄 그림책 책이 필요해요.", "output": "theme=개정판, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 그려요를 알려 줄 그림책 책이 필요해요.", "output": "theme=그려요, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 1996년부터 놀이책 있을까요?", "output": "theme=1996년부터, type=놀이책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 수학에 관심이 많아요. 좋은 학습서 있을까요?", "output": "theme=수학, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 토끼 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=토끼, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "발짝 개념을 알려 주는 그림책 있나요?", "output": "theme=발짝, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "에듀 개념을 알려 주는 놀이책 있나요?", "output": "theme=에듀, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 타고 그림책 있을까요?", "output": "theme=타고, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 책읽기 만들기/접기 추천 부탁드립니다.", "output": "theme=책읽기, type=만들기/접기, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 싫어한 그림책 추천 부탁드립니다.", "output": "theme=싫어한, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 정크푸드를 알려 줄 놀이책 책이 필요해요.", "output": "theme=정크푸드, type=놀이책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 상상력 이야기가 담긴 학습서 책을 추천해 주세요.", "output": "theme=상상력, type=학습서, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 어울리는 접고 놀이책 책을 골라 주세요.", "output": "theme=접고, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 보여 놀이책 있을까요?", "output": "theme=보여, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 탄광 그림책 책을 골라 주세요.", "output": "theme=탄광, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 자음 학습서 추천 부탁드립니다.", "output": "theme=자음, type=학습서, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 크리스티안 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=크리스티안, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 7세 학습서 있을까요?", "output": "theme=7세, type=학습서, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 권정생 그림책 책을 골라 주세요.", "output": "theme=권정생, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 있도록 주제의 학습서 책을 찾고 있어요. 추천해 주세요.", "output": "theme=있도록, type=학습서, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 슈팅스타 놀이책 추천 부탁드립니다.", "output": "theme=슈팅스타, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 스웨덴의에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=스웨덴의, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 알파벳 이야기가 담긴 놀이책 책을 추천해 주세요.", "output": "theme=알파벳, type=놀이책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 영어를 알려 줄 학습서 책이 필요해요.", "output": "theme=영어, type=학습서, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "미니스티커북 개념을 알려 주는 놀이책 있나요?", "output": "theme=미니스티커북, type=놀이책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 어울리는 바르바르의 그림책 책을 골라 주세요.", "output": "theme=바르바르의, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 동물 놀이책 책을 골라 주세요.", "output": "theme=동물, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 미니스티커북 놀이책 책을 골라 주세요.", "output": "theme=미니스티커북, type=놀이책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 장난감 그림책 책을 골라 주세요.", "output": "theme=장난감, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 수의 이야기가 담긴 학습서 책을 추천해 주세요.", "output": "theme=수의, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 어울리는 티니핑 학습서 책을 골라 주세요.", "output": "theme=티니핑, type=학습서, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 나에게 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=나에게, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 언어발달 학습서 책을 골라 주세요.", "output": "theme=언어발달, type=학습서, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 상상력 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=상상력, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 가게 동화책 책을 골라 주세요.", "output": "theme=가게, type=동화책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 소원우리숲그림책 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=소원우리숲그림책, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "뿡산에 개념을 알려 주는 그림책 있나요?", "output": "theme=뿡산에, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 습관 놀이책 있을까요?", "output": "theme=습관, type=놀이책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 미니 놀이책 책을 골라 주세요.", "output": "theme=미니, type=놀이책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 여자 학습서 책을 골라 주세요.", "output": "theme=여자, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 설날 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=설날, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 자연친화 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=자연친화, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 접기에 관심이 많아요. 좋은 학습서 있을까요?", "output": "theme=접기, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 그림 수학책 추천 부탁드립니다.", "output": "theme=그림, type=수학책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 상추씨 그림책 있을까요?", "output": "theme=상추씨, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 거야 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=거야, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 자연친화 이야기가 담긴 놀이책 책을 추천해 주세요.", "output": "theme=자연친화, type=놀이책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 빠른 학습서 추천 부탁드립니다.", "output": "theme=빠른, type=학습서, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 창작 그림책 있을까요?", "output": "theme=창작, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 반짝 놀이책 추천 부탁드립니다.", "output": "theme=반짝, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 치과를 알려 줄 그림책 책이 필요해요.", "output": "theme=치과, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 3월 그림책 추천 부탁드립니다.", "output": "theme=3월, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "창의력 개념을 알려 주는 팝업북 있나요?", "output": "theme=창의력, type=팝업북, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 기능 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=기능, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 서정오 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=서정오, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 어울리는 아이들에게 그림책 책을 골라 주세요.", "output": "theme=아이들에게, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주산암산 개념을 알려 주는 학습서 있나요?", "output": "theme=주산암산, type=학습서, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 긴급출동 놀이책 책을 골라 주세요.", "output": "theme=긴급출동, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 여름에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=여름, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 겨울에 관심이 많아요. 좋은 수학책 있을까요?", "output": "theme=겨울, type=수학책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 놀아보자 이야기가 담긴 학습서 책을 추천해 주세요.", "output": "theme=놀아보자, type=학습서, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 다음 주제의 학습서 책을 찾고 있어요. 추천해 주세요.", "output": "theme=다음, type=학습서, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 친구도 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=친구도, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 거짓말 그림책 추천 부탁드립니다.", "output": "theme=거짓말, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "채택 개념을 알려 주는 그림책 있나요?", "output": "theme=채택, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 4세 학습서 책을 골라 주세요.", "output": "theme=4세, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 생겼어요에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=생겼어요, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 생일 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=생일, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "팔아요 개념을 알려 주는 그림책 있나요?", "output": "theme=팔아요, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 파란색를 알려 줄 그림책 책이 필요해요.", "output": "theme=파란색, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 보드북에 관심이 많아요. 좋은 학습서 있을까요?", "output": "theme=보드북, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 속상하면 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=속상하면, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 ᄀᄂᄃ 학습서 책을 골라 주세요.", "output": "theme=ᄀᄂᄃ, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 Collection 그림책 있을까요?", "output": "theme=Collection, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 대왕의 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=대왕의, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 아저씨를 알려 줄 그림책 책이 필요해요.", "output": "theme=아저씨, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 스스로 그림책 있을까요?", "output": "theme=스스로, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 날마다 그림책 있을까요?", "output": "theme=날마다, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 브루노에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=브루노, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 할머니 그림책 있을까요?", "output": "theme=할머니, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 캐치를 알려 줄 놀이책 책이 필요해요.", "output": "theme=캐치, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 프랑스에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=프랑스, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 21년 그림책 있을까요?", "output": "theme=21년, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 헨젤과에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=헨젤과, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 마리들의 그림책 추천 부탁드립니다.", "output": "theme=마리들의, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 집중력 수학책 있을까요?", "output": "theme=집중력, type=수학책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 어린이도서연구회에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=어린이도서연구회, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 발전소 그림책 있을까요?", "output": "theme=발전소, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 그림과 기타 있을까요?", "output": "theme=그림과, type=기타, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 악당를 알려 줄 그림책 책이 필요해요.", "output": "theme=악당, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 2014년 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=2014년, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 생활습관 팝업북 있을까요?", "output": "theme=생활습관, type=팝업북, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 꾸미기를 알려 줄 놀이책 책이 필요해요.", "output": "theme=꾸미기, type=놀이책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 붙여서 주제의 학습서 책을 찾고 있어요. 추천해 주세요.", "output": "theme=붙여서, type=학습서, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 친구들 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=친구들, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 엄마 그림책 있을까요?", "output": "theme=엄마, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 안전 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=안전, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 숫자 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=숫자, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 종이접기를 알려 줄 만들기/접기 책이 필요해요.", "output": "theme=종이접기, type=만들기/접기, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "권리 개념을 알려 주는 그림책 있나요?", "output": "theme=권리, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "민주인권그림책의 개념을 알려 주는 그림책 있나요?", "output": "theme=민주인권그림책의, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 볼로냐에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=볼로냐, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 어울리는 꼬마 학습서 책을 골라 주세요.", "output": "theme=꼬마, type=학습서, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 온갖 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=온갖, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 워크북를 알려 줄 학습서 책이 필요해요.", "output": "theme=워크북, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 허둥지둥에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=허둥지둥, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 컬러링북에 관심이 많아요. 좋은 놀이책 있을까요?", "output": "theme=컬러링북, type=놀이책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "시리즈 개념을 알려 주는 그림책 있나요?", "output": "theme=시리즈, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 아기를 알려 줄 놀이책 책이 필요해요.", "output": "theme=아기, type=놀이책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 28권 그림책 책을 골라 주세요.", "output": "theme=28권, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "강아지와 개념을 알려 주는 그림책 있나요?", "output": "theme=강아지와, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 도전 그림책 책을 골라 주세요.", "output": "theme=도전, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 갈래 그림책 있을까요?", "output": "theme=갈래, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 개구리야를 알려 줄 그림책 책이 필요해요.", "output": "theme=개구리야, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 빨강머리앤를 알려 줄 놀이책 책이 필요해요.", "output": "theme=빨강머리앤, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 익어가고 그림책 책을 골라 주세요.", "output": "theme=익어가고, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 시리즈에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=시리즈, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 타요의에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=타요의, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 차차한글에 관심이 많아요. 좋은 워크북 있을까요?", "output": "theme=차차한글, type=워크북, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 거대한에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=거대한, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "스토리 개념을 알려 주는 놀이책 있나요?", "output": "theme=스토리, type=놀이책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 동물를 알려 줄 팝업북 책이 필요해요.", "output": "theme=동물, type=팝업북, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 최고냐면 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=최고냐면, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 쿠사마 그림책 추천 부탁드립니다.", "output": "theme=쿠사마, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 마음 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=마음, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 리더십 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=리더십, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 어울리는 만든 그림책 책을 골라 주세요.", "output": "theme=만든, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 까만 그림책 추천 부탁드립니다.", "output": "theme=까만, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 어울리는 찾아도 놀이책 책을 골라 주세요.", "output": "theme=찾아도, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아빠와 개념을 알려 주는 그림책 있나요?", "output": "theme=아빠와, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 팝업북 주제의 팝업북 책을 찾고 있어요. 추천해 주세요.", "output": "theme=팝업북, type=팝업북, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 삼켰을까 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=삼켰을까, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 들어 놀이책 있을까요?", "output": "theme=들어, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 고양이야 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=고양이야, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 자연과교감 그림책 있을까요?", "output": "theme=자연과교감, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 색칠를 알려 줄 놀이책 책이 필요해요.", "output": "theme=색칠, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 찾아라 주제의 놀이책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=찾아라, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 과학를 알려 줄 그림책 책이 필요해요.", "output": "theme=과학, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 이름를 알려 줄 그림책 책이 필요해요.", "output": "theme=이름, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 일곱 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=일곱, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 찾아온에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=찾아온, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 제주를 알려 줄 그림책 책이 필요해요.", "output": "theme=제주, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 책읽기 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=책읽기, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 내일 그림책 책을 골라 주세요.", "output": "theme=내일, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 궁금한 학습서 있을까요?", "output": "theme=궁금한, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 함께 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=함께, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 위한 그림책 있을까요?", "output": "theme=위한, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 사슴에게 그림책 책을 골라 주세요.", "output": "theme=사슴에게, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 생명이에요 그림책 있을까요?", "output": "theme=생명이에요, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 어흥 그림책 추천 부탁드립니다.", "output": "theme=어흥, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 방의 그림책 책을 골라 주세요.", "output": "theme=방의, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잃어버렸어요 개념을 알려 주는 그림책 있나요?", "output": "theme=잃어버렸어요, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 어울리는 나팔꽃 그림책 책을 골라 주세요.", "output": "theme=나팔꽃, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 자연친화 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=자연친화, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 핑거그림책에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=핑거그림책, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 문학상 그림책 있을까요?", "output": "theme=문학상, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 아름다운 수학책 있을까요?", "output": "theme=아름다운, type=수학책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 발달를 알려 줄 놀이책 책이 필요해요.", "output": "theme=발달, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 날고 그림책 추천 부탁드립니다.", "output": "theme=날고, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 거미줄로 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=거미줄로, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 요리조리 이야기가 담긴 팝업북 책을 추천해 주세요.", "output": "theme=요리조리, type=팝업북, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 문해력 학습서 추천 부탁드립니다.", "output": "theme=문해력, type=학습서, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 벽돌 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=벽돌, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 민화와 그림책 책을 골라 주세요.", "output": "theme=민화와, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 키우며 그림책 추천 부탁드립니다.", "output": "theme=키우며, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 진짜 학습서 있을까요?", "output": "theme=진짜, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "씨와 개념을 알려 주는 그림책 있나요?", "output": "theme=씨와, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 엄마의에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=엄마의, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 문해력를 알려 줄 그림책 책이 필요해요.", "output": "theme=문해력, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "멋진 개념을 알려 주는 놀이책 있나요?", "output": "theme=멋진, type=놀이책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 오웬의 그림책 책을 골라 주세요.", "output": "theme=오웬의, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 Non 그림책 있을까요?", "output": "theme=Non, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 lt 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=lt, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 유머에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=유머, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 작품 놀이책 추천 부탁드립니다.", "output": "theme=작품, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "크리스마스 개념을 알려 주는 그림책 있나요?", "output": "theme=크리스마스, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "그림동화 개념을 알려 주는 그림책 있나요?", "output": "theme=그림동화, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 참지 그림책 있을까요?", "output": "theme=참지, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 사자 그림책 있을까요?", "output": "theme=사자, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 플로라 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=플로라, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 디스코 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=디스코, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 자기주도적를 알려 줄 학습서 책이 필요해요.", "output": "theme=자기주도적, type=학습서, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 실제 이야기가 담긴 놀이책 책을 추천해 주세요.", "output": "theme=실제, type=놀이책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 프랑켄 그림책 있을까요?", "output": "theme=프랑켄, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 아름드리에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=아름드리, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 알파벳를 알려 줄 놀이책 책이 필요해요.", "output": "theme=알파벳, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "찬성 개념을 알려 주는 그림책 있나요?", "output": "theme=찬성, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 3세 주제의 놀이책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=3세, type=놀이책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 통해에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=통해, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 상상력 그림책 책을 골라 주세요.", "output": "theme=상상력, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 해마 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=해마, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 바람그림책 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=바람그림책, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 박사님의를 알려 줄 놀이책 책이 필요해요.", "output": "theme=박사님의, type=놀이책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 인성 학습서 추천 부탁드립니다.", "output": "theme=인성, type=학습서, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 콧물 학습서 추천 부탁드립니다.", "output": "theme=콧물, type=학습서, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 한우리 그림책 책을 골라 주세요.", "output": "theme=한우리, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 처음 언어책 책을 골라 주세요.", "output": "theme=처음, type=언어책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "죽음이에요 개념을 알려 주는 그림책 있나요?", "output": "theme=죽음이에요, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 딸의 그림책 있을까요?", "output": "theme=딸의, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 여우 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=여우, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 어울리는 처음 그림책 책을 골라 주세요.", "output": "theme=처음, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 보자 놀이책 있을까요?", "output": "theme=보자, type=놀이책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 마스터 놀이책 있을까요?", "output": "theme=마스터, type=놀이책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 게임 놀이책 있을까요?", "output": "theme=게임, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 아니 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=아니, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 핑크퐁 놀이책 추천 부탁드립니다.", "output": "theme=핑크퐁, type=놀이책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 보여요에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=보여요, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 우당탕탕를 알려 줄 그림책 책이 필요해요.", "output": "theme=우당탕탕, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 언어 주제의 학습서 책을 찾고 있어요. 추천해 주세요.", "output": "theme=언어, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 옮기기 놀이책 책을 골라 주세요.", "output": "theme=옮기기, type=놀이책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아름다움의 개념을 알려 주는 그림책 있나요?", "output": "theme=아름다움의, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 머신 놀이책 추천 부탁드립니다.", "output": "theme=머신, type=놀이책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "신들의 개념을 알려 주는 학습서 있나요?", "output": "theme=신들의, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 창의 학습서 책을 골라 주세요.", "output": "theme=창의, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 파도야에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=파도야, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "작가의 개념을 알려 주는 그림책 있나요?", "output": "theme=작가의, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 다시 놀이책 책을 골라 주세요.", "output": "theme=다시, type=놀이책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 새끼 그림책 추천 부탁드립니다.", "output": "theme=새끼, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 1학년 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=1학년, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 지금 그림책 추천 부탁드립니다.", "output": "theme=지금, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 때까지 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=때까지, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 작가의를 알려 줄 그림책 책이 필요해요.", "output": "theme=작가의, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 손끝으로 그림책 있을까요?", "output": "theme=손끝으로, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "상상력 개념을 알려 주는 만들기/접기 있나요?", "output": "theme=상상력, type=만들기/접기, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 요리 놀이책 추천 부탁드립니다.", "output": "theme=요리, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 함께 그림책 있을까요?", "output": "theme=함께, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 철학자이자 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=철학자이자, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 여러 이야기가 담긴 학습서 책을 추천해 주세요.", "output": "theme=여러, type=학습서, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 나무 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=나무, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 위에서를 알려 줄 학습서 책이 필요해요.", "output": "theme=위에서, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 예방 주제의 학습서 책을 찾고 있어요. 추천해 주세요.", "output": "theme=예방, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 인생에서 그림책 있을까요?", "output": "theme=인생에서, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 자연 이야기가 담긴 학습서 책을 추천해 주세요.", "output": "theme=자연, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 색칠 이야기가 담긴 놀이책 책을 추천해 주세요.", "output": "theme=색칠, type=놀이책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 주인공인를 알려 줄 그림책 책이 필요해요.", "output": "theme=주인공인, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 웅진에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=웅진, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 지켜줘에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=지켜줘, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 무슨 그림책 있을까요?", "output": "theme=무슨, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 주위에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=주위, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 어울리는 보여 그림책 책을 골라 주세요.", "output": "theme=보여, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 텐트 그림책 추천 부탁드립니다.", "output": "theme=텐트, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 요리조리 팝업북 책을 골라 주세요.", "output": "theme=요리조리, type=팝업북, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 세계에에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=세계에, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 요리조리를 알려 줄 팝업북 책이 필요해요.", "output": "theme=요리조리, type=팝업북, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "찾아라 개념을 알려 주는 그림책 있나요?", "output": "theme=찾아라, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 어울리는 달과 그림책 책을 골라 주세요.", "output": "theme=달과, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 엄마의 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=엄마의, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 lt에 관심이 많아요. 좋은 놀이책 있을까요?", "output": "theme=lt, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 스쿨 학습서 있을까요?", "output": "theme=스쿨, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 냉장고를 알려 줄 그림책 책이 필요해요.", "output": "theme=냉장고, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 전6권 주제의 학습서 책을 찾고 있어요. 추천해 주세요.", "output": "theme=전6권, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 생각기술 이야기가 담긴 기타 책을 추천해 주세요.", "output": "theme=생각기술, type=기타, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 높이기 학습서 추천 부탁드립니다.", "output": "theme=높이기, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 어린이도서연구회 이야기가 담긴 놀이책 책을 추천해 주세요.", "output": "theme=어린이도서연구회, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "와이키즈 개념을 알려 주는 학습서 있나요?", "output": "theme=와이키즈, type=학습서, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 이상한 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=이상한, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 gt에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=gt, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 창의력에 관심이 많아요. 좋은 학습서 있을까요?", "output": "theme=창의력, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 어울리는 팝업북 팝업북 책을 골라 주세요.", "output": "theme=팝업북, type=팝업북, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 색칠북 이야기가 담긴 놀이책 책을 추천해 주세요.", "output": "theme=색칠북, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 행복한 그림책 있을까요?", "output": "theme=행복한, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 도깨비 그림책 있을까요?", "output": "theme=도깨비, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 멋쟁이들 그림책 추천 부탁드립니다.", "output": "theme=멋쟁이들, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 강도 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=강도, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 디킨스의 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=디킨스의, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 일본 만들기/접기 있을까요?", "output": "theme=일본, type=만들기/접기, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "만들어 개념을 알려 주는 그림책 있나요?", "output": "theme=만들어, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 어울리는 4권 그림책 책을 골라 주세요.", "output": "theme=4권, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 놀아요 학습서 추천 부탁드립니다.", "output": "theme=놀아요, type=학습서, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아무도 개념을 알려 주는 그림책 있나요?", "output": "theme=아무도, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 조지네를 알려 줄 그림책 책이 필요해요.", "output": "theme=조지네, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 않고 그림책 있을까요?", "output": "theme=않고, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 세계에서에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=세계에서, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 아하에 관심이 많아요. 좋은 놀이책 있을까요?", "output": "theme=아하, type=놀이책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 어울리는 문제해결 놀이책 책을 골라 주세요.", "output": "theme=문제해결, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 2009년를 알려 줄 그림책 책이 필요해요.", "output": "theme=2009년, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 상상력 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=상상력, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 아기 이야기가 담긴 팝업북 책을 추천해 주세요.", "output": "theme=아기, type=팝업북, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 얼마나에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=얼마나, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 국내 그림책 책을 골라 주세요.", "output": "theme=국내, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 마치 그림책 추천 부탁드립니다.", "output": "theme=마치, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 gt에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=gt, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 솔직히 그림책 추천 부탁드립니다.", "output": "theme=솔직히, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 수학 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=수학, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 저쪽에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=저쪽, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 모음 학습서 있을까요?", "output": "theme=모음, type=학습서, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 갔어요를 알려 줄 그림책 책이 필요해요.", "output": "theme=갔어요, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 재미난 그림책 책을 골라 주세요.", "output": "theme=재미난, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 공장의 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=공장의, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 신비로운 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=신비로운, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 이솝우화 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=이솝우화, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 등딱지 그림책 추천 부탁드립니다.", "output": "theme=등딱지, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "한번쯤 개념을 알려 주는 기타 있나요?", "output": "theme=한번쯤, type=기타, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 버스 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=버스, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 오로라 그림책 있을까요?", "output": "theme=오로라, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 온다에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=온다, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 상추에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=상추, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 잃어버린에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=잃어버린, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 어울리는 낱말과 학습서 책을 골라 주세요.", "output": "theme=낱말과, type=학습서, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 상상력를 알려 줄 그림책 책이 필요해요.", "output": "theme=상상력, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 볼로냐 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=볼로냐, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 그림책봄 그림책 있을까요?", "output": "theme=그림책봄, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 오리를 알려 줄 놀이책 책이 필요해요.", "output": "theme=오리, type=놀이책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 과학 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=과학, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "몬스터 개념을 알려 주는 그림책 있나요?", "output": "theme=몬스터, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 자존감에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=자존감, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "정육점 개념을 알려 주는 그림책 있나요?", "output": "theme=정육점, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 어울리는 우당탕탕 그림책 책을 골라 주세요.", "output": "theme=우당탕탕, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 수학 그림책 책을 골라 주세요.", "output": "theme=수학, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 책과를 알려 줄 그림책 책이 필요해요.", "output": "theme=책과, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 봄날 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=봄날, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 씨와 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=씨와, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 책읽기 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=책읽기, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 개의 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=개의, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "화약 개념을 알려 주는 그림책 있나요?", "output": "theme=화약, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 모모와 그림책 있을까요?", "output": "theme=모모와, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 안전 그림책 책을 골라 주세요.", "output": "theme=안전, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 스티커 주제의 놀이책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=스티커, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 상상력를 알려 줄 놀이책 책이 필요해요.", "output": "theme=상상력, type=놀이책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 있게를 알려 줄 학습서 책이 필요해요.", "output": "theme=있게, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 수학 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=수학, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 IQ영재퍼즐 놀이책 책을 골라 주세요.", "output": "theme=IQ영재퍼즐, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 위시캣를 알려 줄 놀이책 책이 필요해요.", "output": "theme=위시캣, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "하루 개념을 알려 주는 그림책 있나요?", "output": "theme=하루, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "탐정 개념을 알려 주는 놀이책 있나요?", "output": "theme=탐정, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 시리즈에 관심이 많아요. 좋은 학습서 있을까요?", "output": "theme=시리즈, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 해적선 그림책 추천 부탁드립니다.", "output": "theme=해적선, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 프랑스의 그림책 있을까요?", "output": "theme=프랑스의, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 인지발달 이야기가 담긴 놀이책 책을 추천해 주세요.", "output": "theme=인지발달, type=놀이책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 초등 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=초등, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "담고 개념을 알려 주는 학습서 있나요?", "output": "theme=담고, type=학습서, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 무죄다 그림책 책을 골라 주세요.", "output": "theme=무죄다, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "생활 개념을 알려 주는 학습서 있나요?", "output": "theme=생활, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 나무야에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=나무야, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 부모와 이야기가 담긴 학습서 책을 추천해 주세요.", "output": "theme=부모와, type=학습서, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 계절의에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=계절의, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 매혹적인에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=매혹적인, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 소박한를 알려 줄 그림책 책이 필요해요.", "output": "theme=소박한, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 바다모험 이야기가 담긴 놀이책 책을 추천해 주세요.", "output": "theme=바다모험, type=놀이책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 시리즈 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=시리즈, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 아니야 그림책 있을까요?", "output": "theme=아니야, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 영어동요를 알려 줄 학습서 책이 필요해요.", "output": "theme=영어동요, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 아름다운 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=아름다운, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 기본생활습관 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=기본생활습관, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 퍼즐북에 관심이 많아요. 좋은 놀이책 있을까요?", "output": "theme=퍼즐북, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 자연친화를 알려 줄 그림책 책이 필요해요.", "output": "theme=자연친화, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 방법 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=방법, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 읽기에 관심이 많아요. 좋은 학습서 있을까요?", "output": "theme=읽기, type=학습서, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 창의업 학습서 있을까요?", "output": "theme=창의업, type=학습서, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 예의범절 동화책 있을까요?", "output": "theme=예의범절, type=동화책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 김설탕과 그림책 추천 부탁드립니다.", "output": "theme=김설탕과, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 미니니 이야기가 담긴 놀이책 책을 추천해 주세요.", "output": "theme=미니니, type=놀이책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 파랑 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=파랑, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 푸드 주제의 놀이책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=푸드, type=놀이책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 막힐 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=막힐, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 사라진 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=사라진, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 언어 학습서 책을 골라 주세요.", "output": "theme=언어, type=학습서, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "B단계 개념을 알려 주는 학습서 있나요?", "output": "theme=B단계, type=학습서, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 인지발달를 알려 줄 놀이책 책이 필요해요.", "output": "theme=인지발달, type=놀이책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 무슨 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=무슨, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 영양소 이야기가 담긴 팝업북 책을 추천해 주세요.", "output": "theme=영양소, type=팝업북, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 인지발달에 관심이 많아요. 좋은 학습서 있을까요?", "output": "theme=인지발달, type=학습서, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 소심한에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=소심한, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 전4권 그림책 있을까요?", "output": "theme=전4권, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 헨리의 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=헨리의, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "ZOO 개념을 알려 주는 만들기/접기 있나요?", "output": "theme=ZOO, type=만들기/접기, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 구출 그림책 있을까요?", "output": "theme=구출, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 칼데콧 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=칼데콧, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 어울리는 무지개다리 그림책 책을 골라 주세요.", "output": "theme=무지개다리, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 그림 학습서 책을 골라 주세요.", "output": "theme=그림, type=학습서, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 거리를 알려 줄 그림책 책이 필요해요.", "output": "theme=거리, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 슈렉에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=슈렉, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 미하일 그림책 추천 부탁드립니다.", "output": "theme=미하일, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 힘차게를 알려 줄 그림책 책이 필요해요.", "output": "theme=힘차게, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 꼬마 이야기가 담긴 학습서 책을 추천해 주세요.", "output": "theme=꼬마, type=학습서, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "천주교 개념을 알려 주는 그림책 있나요?", "output": "theme=천주교, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 고전 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=고전, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 그림책이다 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=그림책이다, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 기적의 이야기가 담긴 학습서 책을 추천해 주세요.", "output": "theme=기적의, type=학습서, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 어울리는 아빠와 그림책 책을 골라 주세요.", "output": "theme=아빠와, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 잃어버린 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=잃어버린, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 여름의 기타 추천 부탁드립니다.", "output": "theme=여름의, type=기타, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 교직에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=교직, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 어울리는 신체발달 그림책 책을 골라 주세요.", "output": "theme=신체발달, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 미츠마사의 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=미츠마사의, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 신기한 학습서 있을까요?", "output": "theme=신기한, type=학습서, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 향해에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=향해, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 인생 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=인생, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 보면 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=보면, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 언어발달 이야기가 담긴 학습서 책을 추천해 주세요.", "output": "theme=언어발달, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 수학 주제의 학습서 책을 찾고 있어요. 추천해 주세요.", "output": "theme=수학, type=학습서, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "실제 개념을 알려 주는 학습서 있나요?", "output": "theme=실제, type=학습서, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 어울리는 재해석해 그림책 책을 골라 주세요.", "output": "theme=재해석해, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 어울리는 아피야의 그림책 책을 골라 주세요.", "output": "theme=아피야의, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "나도 개념을 알려 주는 그림책 있나요?", "output": "theme=나도, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 세계에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=세계, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 미술관 학습서 추천 부탁드립니다.", "output": "theme=미술관, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "랄랄라 개념을 알려 주는 놀이책 있나요?", "output": "theme=랄랄라, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 공룡 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=공룡, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "처음 개념을 알려 주는 그림책 있나요?", "output": "theme=처음, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 해양동물 만들기/접기 추천 부탁드립니다.", "output": "theme=해양동물, type=만들기/접기, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "배려 개념을 알려 주는 그림책 있나요?", "output": "theme=배려, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 요정의 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=요정의, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "안녕 개념을 알려 주는 놀이책 있나요?", "output": "theme=안녕, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 뉴욕타임즈 놀이책 있을까요?", "output": "theme=뉴욕타임즈, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 사람 놀이책 추천 부탁드립니다.", "output": "theme=사람, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 흘러가도록에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=흘러가도록, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "7년 개념을 알려 주는 그림책 있나요?", "output": "theme=7년, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 리더십를 알려 줄 그림책 책이 필요해요.", "output": "theme=리더십, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 읽기를 알려 줄 그림책 책이 필요해요.", "output": "theme=읽기, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 뚝딱 이야기가 담긴 만들기/접기 책을 추천해 주세요.", "output": "theme=뚝딱, type=만들기/접기, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 융통성 그림책 추천 부탁드립니다.", "output": "theme=융통성, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 한글 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=한글, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 집중력 이야기가 담긴 팝업북 책을 추천해 주세요.", "output": "theme=집중력, type=팝업북, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 기본 그림책 있을까요?", "output": "theme=기본, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 감정표현 그림책 추천 부탁드립니다.", "output": "theme=감정표현, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 아침 이야기가 담긴 학습서 책을 추천해 주세요.", "output": "theme=아침, type=학습서, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 우당탕탕를 알려 줄 그림책 책이 필요해요.", "output": "theme=우당탕탕, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 화가야 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=화가야, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 앤서니에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=앤서니, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 함께 그림책 추천 부탁드립니다.", "output": "theme=함께, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 미피 그림책 책을 골라 주세요.", "output": "theme=미피, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 한글판 그림책 추천 부탁드립니다.", "output": "theme=한글판, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 출판 그림책 추천 부탁드립니다.", "output": "theme=출판, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 도전 놀이책 있을까요?", "output": "theme=도전, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 도감 놀이책 추천 부탁드립니다.", "output": "theme=도감, type=놀이책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 자리 그림책 추천 부탁드립니다.", "output": "theme=자리, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 6권 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=6권, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 가을편 그림책 추천 부탁드립니다.", "output": "theme=가을편, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 리더십를 알려 줄 기타 책이 필요해요.", "output": "theme=리더십, type=기타, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 수학 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=수학, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 창의력 그림책 추천 부탁드립니다.", "output": "theme=창의력, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 잠깐만 그림책 있을까요?", "output": "theme=잠깐만, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 30개월 그림책 추천 부탁드립니다.", "output": "theme=30개월, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 진짜 만들기/접기 추천 부탁드립니다.", "output": "theme=진짜, type=만들기/접기, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 42가지를 알려 줄 그림책 책이 필요해요.", "output": "theme=42가지, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 있든 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=있든, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 우주 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=우주, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 튤립에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=튤립, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 잘했어를 알려 줄 그림책 책이 필요해요.", "output": "theme=잘했어, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "다른 개념을 알려 주는 그림책 있나요?", "output": "theme=다른, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 작가이자 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=작가이자, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "주말에 함께 읽을 고사리 그림책 추천 부탁드립니다.", "output": "theme=고사리, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 무서워한다면 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=무서워한다면, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 사랑 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=사랑, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 드세요에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=드세요, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 교과서 주제의 학습서 책을 찾고 있어요. 추천해 주세요.", "output": "theme=교과서, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 동시에 그림책 책을 골라 주세요.", "output": "theme=동시에, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 동식물과 주제의 학습서 책을 찾고 있어요. 추천해 주세요.", "output": "theme=동식물과, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 아기의 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=아기의, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가 4세에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=4세, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 다정한 그림책 있을까요?", "output": "theme=다정한, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 어울리는 1학년 학습서 책을 골라 주세요.", "output": "theme=1학년, type=학습서, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 노란돼지 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=노란돼지, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 우정 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=우정, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "선생님 개념을 알려 주는 그림책 있나요?", "output": "theme=선생님, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "세계여행 개념을 알려 주는 학습서 있나요?", "output": "theme=세계여행, type=학습서, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 귀여운 이야기가 담긴 만들기/접기 책을 추천해 주세요.", "output": "theme=귀여운, type=만들기/접기, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 따스한를 알려 줄 그림책 책이 필요해요.", "output": "theme=따스한, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 미로 놀이책 책을 골라 주세요.", "output": "theme=미로, type=놀이책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 보석 놀이책 책을 골라 주세요.", "output": "theme=보석, type=놀이책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 어울리는 동물 놀이책 책을 골라 주세요.", "output": "theme=동물, type=놀이책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 세계그림책 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=세계그림책, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 어울리는 익히기 학습서 책을 골라 주세요.", "output": "theme=익히기, type=학습서, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 어울리는 저마다 그림책 책을 골라 주세요.", "output": "theme=저마다, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 모험에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=모험, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "자석 개념을 알려 주는 놀이책 있나요?", "output": "theme=자석, type=놀이책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 수학 영어책 있을까요?", "output": "theme=수학, type=영어책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가에게 어울리는 키워서 그림책 책을 골라 주세요.", "output": "theme=키워서, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 유아 이야기가 담긴 학습서 책을 추천해 주세요.", "output": "theme=유아, type=학습서, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 날개와 그림책 책을 골라 주세요.", "output": "theme=날개와, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가에게 작아도를 알려 줄 그림책 책이 필요해요.", "output": "theme=작아도, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "박사님의 개념을 알려 주는 놀이책 있나요?", "output": "theme=박사님의, type=놀이책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "4살 아이가에게 어울리는 날아라 그림책 책을 골라 주세요.", "output": "theme=날아라, type=그림책, age=4"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "빙수 개념을 알려 주는 그림책 있나요?", "output": "theme=빙수, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가 엄마 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=엄마, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "없어 개념을 알려 주는 그림책 있나요?", "output": "theme=없어, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "3살 아이가 정원 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=정원, type=그림책, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 네버랜드에 관심이 많아요. 좋은 학습서 있을까요?", "output": "theme=네버랜드, type=학습서, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 낱말에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=낱말, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "6살 아이가 미니 주제의 그림책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=미니, type=그림책, age=6"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "개성 개념을 알려 주는 그림책 있나요?", "output": "theme=개성, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "더욱 개념을 알려 주는 학습서 있나요?", "output": "theme=더욱, type=학습서, age=3"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가에게 어울리는 하면서 놀이책 책을 골라 주세요.", "output": "theme=하면서, type=놀이책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "달평 개념을 알려 주는 그림책 있나요?", "output": "theme=달평, type=그림책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "잠자기 전에 읽을 낮은산 그림책 있을까요?", "output": "theme=낮은산, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가에게 어울리는 리더십 만들기/접기 책을 골라 주세요.", "output": "theme=리더십, type=만들기/접기, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "2살 아이가에게 전에를 알려 줄 그림책 책이 필요해요.", "output": "theme=전에, type=그림책, age=2"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 과일에 관심이 많아요. 좋은 그림책 있을까요?", "output": "theme=과일, type=그림책, age=5"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "아이가 책에 주제의 영어책 책을 찾고 있어요. 추천해 주세요.", "output": "theme=책에, type=영어책, age=0"}
+{"instruction": "사용자의 도서 추천 요청에서 조건을 추출해 주세요.", "input": "5살 아이가 사회성 이야기가 담긴 그림책 책을 추천해 주세요.", "output": "theme=사회성, type=그림책, age=5"}
