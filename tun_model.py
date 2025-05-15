@@ -46,7 +46,7 @@ print("✅ 모델 로딩 완료", flush=True)
 
 # ✅ 데이터 전처리
 print("📚 데이터셋 로딩 및 전처리 중...", flush=True)
-dataset = load_dataset("json", data_files="data/instruction_dataset_high_precision_half.jsonl")["train"]
+dataset = load_dataset("json", data_files="datasets/instruction_dataset_high_precision.jsonl")["train"]
 
 def generate_prompt(example):
     return f"### Instruction:\n{example['instruction']}\n\n### Input:\n{example['input']}\n\n### Output:\n{example['output']}"
