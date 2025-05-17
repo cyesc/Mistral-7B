@@ -39,11 +39,14 @@ while True:
     # Prompt는 학습에 사용된 형식과 일치시켜야 함
     prompt = f"### Instruction:\n다음 문장을 분석하여 도서 추천 조건을 추출하세요.\n\n### Input:\n{user_input}\n\n### Output:\n"
 
-    inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+    # inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+    inputs = tokenizer(prompt, return_tensors="pt")
+    inputs = {k: v.to(model.device) for k, v in inputs.items()}
 
     with torch.no_grad():
         outputs = model.generate(
             input_ids=inputs["input_ids"],
+            attention_mask=inputs["attention_mask"],
             max_new_tokens=64,
             temperature=0.7,
             top_p=0.9,
@@ -51,6 +54,17 @@ while True:
             eos_token_id=tokenizer.eos_token_id,
             pad_token_id=tokenizer.pad_token_id
         )
+    tokens = outputs[0].cpu()
+    decoded = tokenizer.decode(
+        tokens,
+        skip_special_tokens=True,
+        clean_up_tokenization_spaces=True
+    )
 
-    output_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    # ✅ "### Output:" 뒷부분만 추출
+    if "### Output:" in decoded:
+        output_text = decoded.split("### Output:")[-1].strip()
+    else:
+        output_text = decoded.strip()
+
     print("\n🧠 모델 응답:\n", output_text)
