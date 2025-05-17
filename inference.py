@@ -6,7 +6,7 @@ warnings.filterwarnings("ignore")
 
 # ✅ 모델 로드 설정
 base_model = "mistralai/Mistral-7B-Instruct-v0.2"
-adapter_path = "/output"
+adapter_path = "/root/output"
 
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
