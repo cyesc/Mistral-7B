@@ -20,7 +20,7 @@ bnb_config = BitsAndBytesConfig(
     bnb_4bit_quant_type="nf4"
 )
 
-tokenizer = AutoTokenizer.from_pretrained(base_model, use_fast=True)
+tokenizer = AutoTokenizer.from_pretrained(base_model, use_fast=False)
 tokenizer.pad_token = tokenizer.eos_token
 
 base = AutoModelForCausalLM.from_pretrained(
