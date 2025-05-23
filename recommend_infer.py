@@ -35,7 +35,7 @@ model.eval()
 embedding_model = SentenceTransformer(embedding_model_name)
 
 # ✅ 도서 데이터 로드
-books_df = pd.read_json("book_dataset/books_merged.json")
+books_df = pd.read_json("book_dataset/cleanData.json")
 
 # ✅ 유사도 기반 추천 함수
 def extract_conditions(response):
