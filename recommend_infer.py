@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore")
 
 # ✅ 모델 및 토크나이저 로드
 base_model = "davidkim205/komt-mistral-7b-v1"
-adapter_path = "output_mistral"
+adapter_path = "Mistral-7B/output/ko_mistral_output"
 embedding_model_name = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 
 bnb_config = BitsAndBytesConfig(
